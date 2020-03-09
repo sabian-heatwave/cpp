@@ -1,2 +1,2 @@
 # cpp
-Trying out stuff in C++
+This is the repository for all my C++ projects.
